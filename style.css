@@ -66,7 +66,7 @@ input::placeholder{
 }
 
 footer{
-    display: flex;
+    display: block;
     align-items: flex-end;
     margin-top: 42%;
     margin-left: 42%;
